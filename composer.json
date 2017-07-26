@@ -1,0 +1,30 @@
+{
+    "name": "finalbytes/google-distance-matrix-api",
+    "type": "library",
+    "description": "Google distance matrix API - Estimate travel time and distance for multiple destinations.",
+    "keywords": [
+        "google distance matrix",
+        "distance matrix",
+        "google api"
+    ],
+    "license": "MIT",
+    "authors": [{
+        "name": "Kevin Kersjens",
+        "homepage": "https://finalbytes.nl",
+        "email": "mail@finalbytes.nl"
+    }],
+    "support": {
+        "email": "mail@finalbytes.nl",
+        "issues": "https://github.com/finalbytes/google-distance-matrix-api/issues"
+    },
+    "version": "v0.0.1",
+    "require": {
+        "php": ">=7.0",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "FinalBytes\\GoogleDistanceMatrix\\": "src/"
+        }
+    }
+}
