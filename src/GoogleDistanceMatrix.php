@@ -2,6 +2,7 @@
 
 namespace FinalBytes\GoogleDistanceMatrix;
 
+use FinalBytes\GoogleDistanceMatrix\Response\GoogleDistanceMatrixResponse;
 use GuzzleHttp\Client;
 
 class GoogleDistanceMatrix
