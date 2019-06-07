@@ -3,7 +3,7 @@ Estimate travel time and distance for multiple destinations.
 
 Requirements
 ============
-Requires PHP 7.0 or higher.
+Requires PHP 7.1 or higher.
 
 
 Installation
